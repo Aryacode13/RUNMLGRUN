@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85696893858",
+    "project_id": "run-malang-runimage.png",
+    "storage_bucket": "run-malang-run.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85696893858:android:1a71b3b4057e96e49a58fb",
+        "android_client_info": {
+          "package_name": "runmlgrun.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsKeAVHzCb5vPzDRZ7q9wTILJucwYsvso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

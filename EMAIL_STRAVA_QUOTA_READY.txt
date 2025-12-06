@@ -1,0 +1,119 @@
+To: developers@strava.com
+Subject: Request Quota Increase for Run Malang Run API Application
+
+Dear Strava Developer Support Team,
+
+I hope this email finds you well. I am writing to request a quota increase for my Strava API application to support our growing community of runners in Malang, Indonesia.
+
+APPLICATION INFORMATION
+- Application Name: Run Malang Run (RMR CMS)
+- Client ID: [YOUR_CLIENT_ID]
+- Developer Name: Arya
+- Current Quota: 1 athlete
+- Requested Quota: 2,000+ athletes
+
+ABOUT RUN MALANG RUN
+Run Malang Run (RMR) is a running organization based in Malang, Indonesia, dedicated to promoting running culture and organizing running events in the city. Our mobile application serves as a comprehensive platform for event registration and community engagement.
+
+APPLICATION FEATURES
+Our application provides the following key features:
+
+1. Event Registration System
+   - Seamless registration process for running events organized by RMR
+   - Real-time event information and updates
+   - Quota management and registration tracking
+
+2. Strava OAuth Integration
+   - User authentication via Strava OAuth for secure and convenient login
+   - Automatic profile synchronization with Strava accounts
+   - Seamless integration with users' existing Strava data
+
+3. Activity Synchronization
+   - Sync running activities from Strava to the application
+   - Display user's running history and statistics
+   - Track training progress and achievements
+
+4. User Profile Management
+   - Complete user profiles synchronized with Strava data
+   - Profile pictures, running statistics, and activity history
+   - Personalized dashboard for each user
+
+5. Event Management
+   - Browse available running events in Malang
+   - Register for events with real-time availability
+   - Track registration status and event details
+
+USE CASE
+Our application is designed specifically for the running community in Malang city. We organize multiple running events throughout the year, and our application serves as the primary platform for:
+- Event Registration: Runners can easily register for events through the app
+- Community Building: Connecting runners in Malang through a unified platform
+- Activity Tracking: Integrating with Strava to showcase runners' activities and achievements
+- Event Management: Streamlining the registration process for event organizers
+
+EXPECTED USAGE
+- Estimated Users: 2,000+ athletes in the first year
+- Application Status: Production-ready application
+- Target Audience: Running community in Malang, Indonesia
+- Event Frequency: Multiple events per year with hundreds of participants each
+
+WHY WE NEED HIGHER QUOTA
+Currently, our application is limited to only 1 connected athlete, which severely restricts our ability to serve the running community. With the growing popularity of running events in Malang and the increasing number of participants, we need to support:
+- Multiple simultaneous user registrations
+- Community growth and expansion
+- Multiple events with hundreds of participants each
+- Long-term sustainability of the platform
+
+TECHNICAL DETAILS
+- Platform: Mobile application built with Flutter
+- Backend: Supabase
+- Authentication: Strava OAuth 2.0
+- API Usage: Primarily for user authentication and profile synchronization
+- Rate Limits: We understand and will comply with Strava's rate limits (200 requests/15 minutes, 2,000 daily)
+
+COMMITMENT
+We are committed to:
+- Following Strava API best practices
+- Respecting rate limits and usage guidelines
+- Providing a valuable service to the running community
+- Maintaining data privacy and security standards
+
+REQUEST
+We respectfully request a quota increase to 2,000+ athletes to support our growing community and enable us to serve the running community in Malang effectively.
+
+We believe this increase will allow us to:
+- Support multiple events with hundreds of participants
+- Accommodate community growth
+- Provide a seamless experience for all runners
+- Contribute positively to the Strava ecosystem
+
+ADDITIONAL INFORMATION
+If you need any additional information about our application, use case, or technical implementation, please do not hesitate to contact me. I am happy to provide:
+- Application screenshots or demo
+- Detailed technical documentation
+- Usage statistics and projections
+- Any other information that may be helpful
+
+Thank you for your time and consideration. We look forward to your positive response and are excited to continue building a great experience for the running community in Malang.
+
+Best regards,
+
+Arya
+Developer, Run Malang Run (RMR CMS)
+Email: [YOUR_EMAIL]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

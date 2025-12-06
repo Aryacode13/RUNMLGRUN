@@ -1,0 +1,14 @@
+{
+  "name": "rmr-cms-backend",
+  "version": "1.0.0",
+  "description": "Backend helper scripts for RMR CMS",
+  "main": "sync_activities.js",
+  "scripts": {
+    "sync": "node sync_activities.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.0",
+    "axios": "^1.6.0"
+  }
+}
+
